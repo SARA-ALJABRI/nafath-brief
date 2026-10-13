@@ -2,8 +2,10 @@
 
 This file records the main changes made to the NAFATH-V1 project.
 
-- Created the initial repository and brief structure.
-- Added the overview and six IT topic sections.
-- Added references and completed the initial brief draft.
-- Added the misconception and open question sections.
-- Revised the overview to clarify the service architecture and security priorities.
+- `6b8dab3` — Initial commit
+- `57b20ef` — skeleton: NAFATH-V1
+- `fd3a52e` — Enhance brief.md with detailed sections and resources
+- `f8c9a26` — Create CHANGELOG.md
+- `527a952` — docs: add changelog
+- `e668408` — revise: overview
+- `13cfc4e` — changelog: record final revision
